@@ -6,10 +6,14 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent implements OnInit {
-
+  styleClass = "";
   constructor() { }
 
   ngOnInit(): void {
+  }
+
+  changeStyleClass(text:string) {
+    return "fixed-plugin ps "+ text;
   }
 
 }
