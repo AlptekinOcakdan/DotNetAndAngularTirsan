@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lsU20bJabGve/Er6oA6plXO56mklt+Wt5/NNApAJ2+k=",
+  "Hash": "N10iyK+OsS5SWdrdtJ8KYlx+CLIkxcUQuyL1kD7Uybs=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "WebAPI\\wwwroot",
       "Source": "WebAPI",
-      "ContentRoot": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\WebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\WebAPI\\wwwroot\\.gitkeep",
+      "Identity": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\wwwroot\\.gitkeep",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\WebAPI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
       "RelativePath": ".gitkeep",
       "AssetKind": "All",

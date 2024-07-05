@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|c:\\users\\alptekin.ocaktan\\documents\\github\\dotnetandangulartirsan\\dotnet\\maxiv2\\webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|c:\\users\\alptekin.ocaktan\\documents\\github\\dotnetandangulartirsan\\dotnet\\maxiv2\\webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|c:\\users\\alptekin.ocaktan\\documents\\github\\dotnetandangulartirsan\\dotnet\\maxiv2\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DC2CA3-2605-4C39-935A-EA8160966FE9}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\CarImagesController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarImagesController.cs",
+              "ToolTip": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\CarImagesController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CarImagesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:23:13.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:23:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T12:22:48.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

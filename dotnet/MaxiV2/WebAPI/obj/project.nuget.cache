@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z4wl2mzuYes=",
+  "dgSpecHash": "96KXtvSnq7M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alptekin.ocaktan\\.nuget\\packages\\autofac\\8.0.0\\autofac.8.0.0.nupkg.sha512",
     "C:\\Users\\alptekin.ocaktan\\.nuget\\packages\\autofac.extensions.dependencyinjection\\9.0.0\\autofac.extensions.dependencyinjection.9.0.0.nupkg.sha512",

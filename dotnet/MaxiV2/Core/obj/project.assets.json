@@ -3376,11 +3376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\alptekin.ocaktan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Core\\obj\\",
+      "outputPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

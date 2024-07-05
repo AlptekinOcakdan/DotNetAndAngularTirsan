@@ -3438,11 +3438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Business\\Business.csproj",
+      "projectUniqueName": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Business\\Business.csproj",
+      "projectPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\alptekin.ocaktan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Business\\obj\\",
+      "outputPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3464,11 +3464,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\alptekin.ocaktan\\source\\repos\\MaxiV2\\Entities\\Entities.csproj"
+            "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\alptekin.ocaktan\\Documents\\GitHub\\DotNetAndAngularTirsan\\dotnet\\MaxiV2\\Entities\\Entities.csproj"
             }
           }
         }
