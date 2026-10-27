@@ -1,2 +1,43 @@
 .idea
 .vscode
+
+# Visual Studio / .NET build output and user files
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+_ReSharper*/
+*.DotSettings.user
+TestResults/
+[Tt]est[Rr]esult*/
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.log
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Secrets
+secrets.json
+appsettings.*.local.json
+.env
+
+# Angular / Node
+node_modules/
+dist/
+.angular/
